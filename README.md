@@ -1,3 +1,9 @@
+
+![Sign In](https://github.com/shahid1212/Beautiful-Login-SignUp-and-forgot-Password-Screen-In-React-Native/assets/74735439/fd870a7a-3d50-4b21-b056-179246f666af)
+![Sign Up](https://github.com/shahid1212/Beautiful-Login-SignUp-and-forgot-Password-Screen-In-React-Native/assets/74735439/b21e46ba-05d2-4587-b4dd-657403f5c058)
+![Reset Password](https://github.com/shahid1212/Beautiful-Login-SignUp-and-forgot-Password-Screen-In-React-Native/assets/74735439/d8a8dc3f-038d-4d72-b1c7-af7445e4367e)
+![iPhone 8 - 1](https://github.com/shahid1212/Beautiful-Login-SignUp-and-forgot-Password-Screen-In-React-Native/assets/74735439/ac0a8129-22c0-40d1-a7a8-a0053f3d86a5)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
